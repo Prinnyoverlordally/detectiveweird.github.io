@@ -1,8 +1,50 @@
 body {
-    background-color: #000000;
+    background-color: purple;
     color: #ffffff;
+    margin: 0;
+    padding: 0;
 }
 
 a {
     color: #ff8600;
+}
+
+ul, ol {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 960px;
+    margin: 0 auto;
+}
+
+.header {
+    background-color: blue;
+}
+
+.bookshelf {
+    background-color: yellow;
+}
+
+.content {
+    background-color: white;
+    color: black;
+}
+
+.post-image img {
+    width: 100%;
+    height: auto;
+}
+
+.tray {
+    background-color: red;
+}
+
+.footer {
+    background-color: green;
+}
+
+.copyright {
+    background-color: black;
 }

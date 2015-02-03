@@ -8,8 +8,14 @@ layout: default
       
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
+      {% if post.image %}
+      <div class="post-image">
+        <img src="/images/{{ post.image }}" />
+      </div>
+      {% endif %}
+    
       <div class="entry">
-        {{ post.content | truncatewords:40}}
+        {{ content }}
       </div>
       
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
