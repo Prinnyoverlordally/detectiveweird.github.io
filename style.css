@@ -79,6 +79,7 @@ ul, ol {
 
 .posts {
     display: table;
+    width: 100%;
 }
 
 .previous,
