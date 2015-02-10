@@ -87,6 +87,10 @@ ul, ol {
     width: 78px;
     display: table-cell;
     background-color: #5d0707;
+    text-align: center;
+    font-size: 64px;
+    vertical-align: middle;
+    font-weight: bold;
 }
 
 .previous:hover,
