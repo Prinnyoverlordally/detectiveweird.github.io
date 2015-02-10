@@ -89,6 +89,11 @@ ul, ol {
     background-color: #5d0707;
 }
 
+.previous:hover,
+.next:hover {
+    background-color: #bc0e0e;
+}
+
 .post {
     background-color: white;
     color: black;
