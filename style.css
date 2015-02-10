@@ -86,7 +86,7 @@ ul, ol {
     
 .previous,
 .next {
-    display: block;
+    display: table-cell;
     height: 100%;
     width: 100%;
 }
