@@ -77,6 +77,10 @@ ul, ol {
     padding: 0px;
 }
 
+.posts {
+    display: table;
+}
+
 .previous,
 .next {
     width: 78px;
