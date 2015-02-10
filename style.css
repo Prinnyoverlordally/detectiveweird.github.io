@@ -82,6 +82,13 @@ ul, ol {
     width: 78px;
     display: table-cell;
     background-color: #5d0707;
+    
+    .previous,
+    .next {
+        display: block;
+        height: 100%;
+        width: 100%;
+    }
 }
 
 .post {
