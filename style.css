@@ -82,6 +82,7 @@ ul, ol {
 .next-page {
     width: 78px;
     display: table-cell;
+    background-color: #5d0707;
 }
 
 .post {
