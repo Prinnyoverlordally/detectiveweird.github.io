@@ -77,18 +77,11 @@ ul, ol {
     padding: 0px;
 }
 
-.prev-page,
-.next-page {
+.previous,
+.next {
     width: 78px;
     display: table-cell;
     background-color: #5d0707;
-}
-    
-.previous,
-.next {
-    display: table-cell;
-    height: 100%;
-    width: 100%;
 }
 
 .post {
