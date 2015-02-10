@@ -93,8 +93,8 @@ ul, ol {
     font-weight: bold;
 }
 
-.previous:hover,
-.next:hover {
+a.previous:hover,
+a.next:hover {
     background-color: #bc0e0e;
 }
 
