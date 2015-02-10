@@ -23,20 +23,19 @@
   <body>
     <div class="container">    
       <div class="header">
-        {% include nav.html %}
+        {% include header.html %}
       </div>
       <div class="bookshelf">
-        Bookshelf
+        {% include bookshelf.html %}
       </div>
       <div class="content">
         {{ content }}
       </div>
       <div class="tray">
-        Tray
+        {% include tray.html %}
       </div>
       <div class="footer">
-        {% include nav.html %}
-        <div class="copyright">Copyright Allyson 2015</div>
+        {% include footer.html %}
       </div>
     </div>
   </body>

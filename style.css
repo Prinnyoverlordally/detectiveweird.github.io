@@ -1,12 +1,26 @@
+@font-face {
+    font-family: Linowrite;
+    src: url('fonts/linowrite.ttf');
+}
+
 body {
-    background-color: purple;
+    background-color: black;
     color: #ffffff;
     margin: 0;
     padding: 0;
+    font-family: Linowrite;
 }
 
-a {
-    color: #ff8600;
+a,
+a:focus,
+a:active,
+a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline: ;
 }
 
 ul, ol {
@@ -20,16 +34,69 @@ ul, ol {
 }
 
 .header {
-    background-color: blue;
+    height: 144px;
+}
+
+.header .logo {
+    width: 380px;
+    float: left;
+    border-right: 12px solid #5d0707;
+    padding-bottom: 12px;
+}
+
+.header .nav {
+    float: left;
+    list-style-type: none;
+}
+
+.header .nav li {
+    display: inline;
+}
+
+.header .nav li a {
+    display: inline-block;
+    padding: 87px 6px 0px;
+    font-size: 24px;
 }
 
 .bookshelf {
-    background-color: yellow;
+    background-color: black;
+    clear: both;
+    padding: 0 38px;
+}
+
+.bookshelf .white-box {
+    height: 176px;
+    width: 100%;
+    background-color: white;
 }
 
 .content {
+    background-color: black;
+    color: black;
+    padding: 0px 78px;
+    border-top: 24px solid #5d0707;
+}
+
+.post {
     background-color: white;
     color: black;
+    padding: 35px;
+}
+
+.post {
+    margin-top: -24px;
+}
+
+.post a,
+.post a:focus,
+.post a:active,
+.post a:visited {
+    color: black;
+}
+
+.post-image {
+    margin-bottom: 16px;
 }
 
 .post-image img {
@@ -37,14 +104,57 @@ ul, ol {
     height: auto;
 }
 
+.post .date {
+    margin-bottom: 36px;
+}
+
 .tray {
-    background-color: red;
+    height: 303px;
+    margin-top: 16px;
+}
+
+.tray li {
+    display: inline-block;
+    width: 33%;
+}
+
+.tray li a {
+    display: block;
+}
+
+.tray li img {
+    width: 100%;
+    height: auto;
+}
+
+.tray-home a {
+    padding: 0px 12px;
+}
+
+.tray-ask a {
+    padding: 0px 18px;
 }
 
 .footer {
-    background-color: green;
+    background-color: black;
+    text-align: center;
+}
+
+.footer .nav {
+    list-style-type: none;
+}
+
+.footer .nav li {
+    display: inline;
+}
+
+.footer .nav li a {
+    display: inline-block;
+    padding: 34px 12px 28px;
+    font-size: 36px;
 }
 
 .copyright {
-    background-color: black;
+    padding: 18px 0px;
+    background-color: #5d0707;
 }
