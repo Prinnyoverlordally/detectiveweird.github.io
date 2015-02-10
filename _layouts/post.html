@@ -8,19 +8,18 @@ layout: default
     <span class="previous">&nbsp;</span>
   {% endif %}
   
-  {% for post in paginator.posts %}
     <article class="post">    
       
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ page.title }}</a></h1>
 
-      {% if post.image %}
+      {% if page.image %}
       <div class="post-image">
         <img src="/images/{{ post.image }}" />
       </div>
       {% endif %}
     
       <div class="entry">
-        {{ post.content }}
+        {{ page.content }}
       </div>    
       
       <div class="date">
@@ -29,7 +28,6 @@ layout: default
   
       {% include disqus.html disqus_identifier=page.disqus_identifier %}
     </article>
-  {% endfor %}
   
   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path }}" class="next">></a>
