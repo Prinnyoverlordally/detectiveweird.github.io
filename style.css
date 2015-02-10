@@ -74,14 +74,21 @@ ul, ol {
 .content {
     background-color: black;
     color: black;
-    padding: 0px 78px;
+    padding: 0px;
     border-top: 24px solid #5d0707;
+}
+
+.prev-page,
+.next-page {
+    width: 78px;
+    display: table-cell;
 }
 
 .post {
     background-color: white;
     color: black;
     padding: 35px;
+    display: table-cell;
 }
 
 .post {
