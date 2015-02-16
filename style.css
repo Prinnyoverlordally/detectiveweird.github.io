@@ -78,6 +78,7 @@ ul, ol {
     width: 120px;
     background-color: black;
     color: white;
+    vertical-align: middle;
 }
 
 .bookshelf .book img {
