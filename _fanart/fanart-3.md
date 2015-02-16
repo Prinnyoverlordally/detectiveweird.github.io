@@ -1,6 +1,6 @@
 ---
 layout: fanart
-title: Fanart 3
+title: Who Knew Ghosts Love Dancing?
 image: Fanart-3.jpg
 chapter: 
 page: 
@@ -8,4 +8,4 @@ prev-page:
 next-page: 
 category: fanart
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum at orci magna. Phasellus augue justo, sodales eu pulvinar ac, vulputate eget nulla. Mauris massa sem, tempor sed cursus et, semper tincidunt lacus. Praesent sagittis, quam id egestas consequat, nisl orci vehicula libero, quis ultricies nulla magna interdum sem. Maecenas eget orci vitae eros accumsan mollis. Cras mi mi, rutrum id aliquam in, aliquet vitae tellus. Sed neque justo, cursus in commodo eget, facilisis eget nunc. Cras tincidunt auctor varius.
+Two ghost OC's are really getting their groove on. Too bad Edgar was not invited!

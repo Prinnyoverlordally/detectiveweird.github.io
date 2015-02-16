@@ -1,6 +1,6 @@
 ---
 layout: fanart
-title: Fanart 1
+title: Lily and Edgar
 image: Fanart-1.jpg
 chapter: 
 page: 
@@ -8,4 +8,4 @@ prev-page:
 next-page: 
 category: fanart
 ---
-Hi Ally!
+Edgar, who is used to seeing red, has lost his glasses. The result is funny (and burning!)

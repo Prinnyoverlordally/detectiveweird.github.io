@@ -1,6 +1,6 @@
 ---
 layout: fanart
-title: Fanart 4
+title: A Mirror Image
 image: Fanart-4.jpg
 chapter: 
 page: 
@@ -8,4 +8,4 @@ prev-page:
 next-page: 
 category: fanart
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum at orci magna. Phasellus augue justo, sodales eu pulvinar ac, vulputate eget nulla. Mauris massa sem, tempor sed cursus et, semper tincidunt lacus. Praesent sagittis, quam id egestas consequat, nisl orci vehicula libero, quis ultricies nulla magna interdum sem. Maecenas eget orci vitae eros accumsan mollis. Cras mi mi, rutrum id aliquam in, aliquet vitae tellus. Sed neque justo, cursus in commodo eget, facilisis eget nunc. Cras tincidunt auctor varius.
+Willow, the wisp, showing Edgar how much she can do with her power.
