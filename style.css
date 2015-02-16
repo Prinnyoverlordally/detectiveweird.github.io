@@ -141,7 +141,7 @@ a.next:hover {
 .page a:focus,
 .page a:active,
 .page a:visited {
-    color: black;
+    color: #5d0707;
 }
 
 .page a:hover, 
