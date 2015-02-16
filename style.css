@@ -76,6 +76,7 @@ ul, ol {
     width: 20%;
     background-color: black;
     color: white;
+    float: left;
 }
 
 .bookshelf .book img {
