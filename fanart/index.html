@@ -5,7 +5,15 @@ layout: default
 <div class="fanart-gallery">
   
   {% for fanart in site.fanart %}
-    <a href="{{ site.baseurl }}{{ fanart.url }}" class="fanart">    
+
+    {% if fanart.link %}
+    <a href="{{ site.baseurl }}{{ fanart.link }}" class="fanart">  
+
+    {% else %}  
+
+    <a href="{{ site.baseurl }}{{ fanart.url }}" class="fanart">  
+
+    {% endif %}
       
       <h1>{{ fanart.title }}</h1>
 
