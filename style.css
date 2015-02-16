@@ -133,19 +133,14 @@ a.next:hover {
     width: 100%;
 }
 
-.post a,
-.post a:focus,
-.post a:active,
-.post a:visited,
-.page a,
-.page a:focus,
-.page a:active,
-.page a:visited {
+.entry a,
+.entry a:focus,
+.entry a:active,
+.entry a:visited {
     color: #5d0707;
 }
 
-.page a:hover, 
-.post a:hover {
+.entry a:hover {
     text-decoration: underline;
 }
 
