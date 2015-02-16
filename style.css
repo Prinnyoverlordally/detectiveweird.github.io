@@ -63,21 +63,20 @@ ul, ol {
     background-color: black;
     clear: both;
     padding: 0 38px;
-    text-align: center;
 }
 
 .bookshelf .white-box {
     height: 176px;
     width: 100%;
     background-color: white;
+    text-align: center;
 }
 
 .bookshelf .book {
-    display: block;
+    display: inline-block;
     width: 10%;
     background-color: black;
     color: white;
-    float: left;
 }
 
 .bookshelf .book img {
