@@ -71,6 +71,18 @@ ul, ol {
     background-color: white;
 }
 
+.bookshelf .book {
+    display: block;
+    width: 20%;
+    background-color: black;
+    color: white;
+}
+
+.bookshelf .book img {
+    width: 100%;
+    height: auto;
+}
+
 .content {
     background-color: black;
     color: black;
