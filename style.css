@@ -133,6 +133,17 @@ a.next:hover {
     width: 100%;
 }
 
+h1 a,
+h1 a:focus,
+h1 a:active,
+h1 a:visited {
+    color: black;
+}
+
+h1 a:hover {
+    text-decoration: underline;
+}
+
 .entry a,
 .entry a:focus,
 .entry a:active,
