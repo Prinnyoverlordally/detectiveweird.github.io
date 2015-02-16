@@ -2,6 +2,7 @@
 layout: page
 title: Characters
 permalink: /characters/
+image: 
 ---
 
 Some information about you!

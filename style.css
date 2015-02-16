@@ -129,6 +129,10 @@ a.next:hover {
     display: table-cell;
 }
 
+.entry p img {
+    width: 100%;
+}
+
 .post a,
 .post a:focus,
 .post a:active,
