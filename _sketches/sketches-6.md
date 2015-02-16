@@ -1,7 +1,7 @@
 ---
 layout: sketches
-title: Sketch 2
-image: Sketches-2.jpg
+title: Sketch 6
+image: Sketches-6.jpg
 chapter: 
 page: 
 prev-page:
