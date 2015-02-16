@@ -162,6 +162,7 @@ a.next:hover {
 .tray {
     height: 303px;
     margin-top: 16px;
+    clear: both;
 }
 
 .tray li {
