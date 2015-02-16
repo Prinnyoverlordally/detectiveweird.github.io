@@ -43,8 +43,10 @@ google_analytics:
 url: http://prinnyoverlordally.github.io
 
 collections:
-- fanart
-- sketches
+  fanart:
+    output: true
+  sketches:
+    output: true
 
 # If you're hosting your site at a Project repository on GitHub pages 
 # (http://yourusername.github.io/repository-name)
