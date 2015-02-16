@@ -2,11 +2,11 @@
 layout: default
 ---
 <div class="posts">
-  {% if paginator.previous_page %}
+<!--   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}" class="previous"><</a>
   {% else %}
     <span class="previous">&nbsp;</span>
-  {% endif %}
+  {% endif %} -->
   
     <article class="post">    
       
@@ -29,9 +29,9 @@ layout: default
       {% include disqus.html disqus_identifier=page.disqus_identifier %}
     </article>
   
-  {% if paginator.next_page %}
+<!--   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path }}" class="next">></a>
   {% else %}
     <span class="next ">&nbsp;</span>
-  {% endif %}
+  {% endif %} -->
 </div>
