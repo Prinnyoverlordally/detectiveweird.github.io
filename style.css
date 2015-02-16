@@ -77,7 +77,6 @@ ul, ol {
     display: inline-block;
     height: 150px;
     width: 120px;
-    background-color: black;
     color: white;
     vertical-align: middle;
     margin: 0 12px;
@@ -91,6 +90,8 @@ ul, ol {
 .bookshelf .book.coming {
     padding-top: 50px;
     font-size: 20px;
+    background-color: black;
+    height: 100px;
 }
 
 .content {
