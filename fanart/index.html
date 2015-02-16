@@ -7,7 +7,7 @@ layout: default
   {% for fanart in site.fanart %}
     <a href="{{ site.baseurl }}{{ fanart.url }}" class="fanart">    
       
-      <h1><a href="{{ site.baseurl }}{{ fanart.url }}">{{ fanart.title }}</a></h1>
+      <h1>{{ fanart.title }}</h1>
 
       {% if fanart.image %}
       <div class="post-image">

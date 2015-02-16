@@ -148,6 +148,12 @@ a.next:hover {
     margin-bottom: 36px;
 }
 
+.fanart {
+    display: block;
+    width: 25%;
+    margin: 24px 5%;
+}
+
 .tray {
     height: 303px;
     margin-top: 16px;
