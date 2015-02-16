@@ -74,14 +74,14 @@ ul, ol {
 
 .bookshelf .book {
     display: inline-block;
-    width: 10%;
+    height: 150px;
     background-color: black;
     color: white;
 }
 
 .bookshelf .book img {
-    width: 100%;
-    height: auto;
+    width: auto;
+    height: 150px;
 }
 
 .content {
