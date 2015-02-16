@@ -148,6 +148,11 @@ a.next:hover {
     margin-bottom: 36px;
 }
 
+.fanart-gallery,
+.sketches-gallery {
+    padding-left: 12px;
+}
+
 .fanart,
 .sketches {
     display: block;
