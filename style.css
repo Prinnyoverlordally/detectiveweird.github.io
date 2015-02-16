@@ -63,6 +63,7 @@ ul, ol {
     background-color: black;
     clear: both;
     padding: 0 38px;
+    text-align: center;
 }
 
 .bookshelf .white-box {
@@ -73,11 +74,10 @@ ul, ol {
 
 .bookshelf .book {
     display: block;
-    width: 20%;
+    width: 10%;
     background-color: black;
     color: white;
     float: left;
-    padding: 0 24px;
 }
 
 .bookshelf .book img {
