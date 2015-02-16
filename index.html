@@ -3,10 +3,11 @@ layout: default
 ---
 
 <div class="posts">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous"><</a>
+  
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next"><</a>
   {% else %}
-    <span class="previous">&nbsp;</span>
+    <span class="next ">&nbsp;</span>
   {% endif %}
   
   {% for post in paginator.posts %}
@@ -27,10 +28,11 @@ layout: default
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
-  
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">></a>
+
+
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">></a>
   {% else %}
-    <span class="next ">&nbsp;</span>
+    <span class="previous">&nbsp;</span>
   {% endif %}
 </div>
