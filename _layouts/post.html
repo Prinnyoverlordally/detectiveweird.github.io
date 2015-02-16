@@ -3,7 +3,7 @@ layout: default
 ---
 <div class="posts">
   {% if page.prev-page %}
-    <a href="{{ site.baseurl }}{{ page.prev-page }}" class="previous"><</a>
+    <a href="{{ site.baseurl }}/{{ page.prev-page }}" class="previous"><</a>
   {% else %}
     <span class="previous">&nbsp;</span>
   {% endif %}
@@ -30,7 +30,7 @@ layout: default
     </article>
   
   {% if page.next-page %}
-    <a href="{{ site.baseurl }}{{ page.next-page }}" class="next">></a>
+    <a href="{{ site.baseurl }}/{{ page.next-page }}" class="next">></a>
   {% else %}
     <span class="next ">&nbsp;</span>
   {% endif %}
