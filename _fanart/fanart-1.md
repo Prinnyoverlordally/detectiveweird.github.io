@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: fanart
 title: Fanart 1
 image: Fanart-1.jpg
 chapter: 

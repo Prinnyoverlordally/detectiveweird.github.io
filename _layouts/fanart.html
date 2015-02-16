@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<div class="posts">
+  
+    <article class="post">    
+      
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ page.title }}</a></h1>
+
+      {% if page.image %}
+      <div class="post-image">
+        <img src="/images/{{ page.image }}" />
+      </div>
+      {% endif %}
+    
+      <div class="entry">
+        {{ page.content }}
+      </div>    
+  
+      {% include disqus.html disqus_identifier=page.disqus_identifier %}
+    </article>
+</div>
