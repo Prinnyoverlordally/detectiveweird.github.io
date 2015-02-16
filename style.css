@@ -136,8 +136,17 @@ a.next:hover {
 .post a,
 .post a:focus,
 .post a:active,
-.post a:visited {
+.post a:visited,
+.page a,
+.page a:focus,
+.page a:active,
+.page a:visited {
     color: black;
+}
+
+.page a:hover, 
+.post a:hover {
+    text-decoration: underline;
 }
 
 .post-image {
