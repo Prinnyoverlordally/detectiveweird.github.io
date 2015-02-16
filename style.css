@@ -70,6 +70,7 @@ ul, ol {
     width: 100%;
     background-color: white;
     text-align: center;
+    padding-top: 12px;
 }
 
 .bookshelf .book {
@@ -79,6 +80,7 @@ ul, ol {
     background-color: black;
     color: white;
     vertical-align: middle;
+    margin: 0 12px;
 }
 
 .bookshelf .book img {
