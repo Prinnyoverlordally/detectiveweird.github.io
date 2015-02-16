@@ -100,7 +100,8 @@ ul, ol {
     padding: 0px;
 }
 
-.posts {
+.posts,
+.page {
     display: table;
     width: 100%;
 }
