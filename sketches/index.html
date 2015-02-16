@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<div class="sketches-gallery">
+  
+  {% for sketches in site.sketches %}
+    <a href="{{ site.baseurl }}{{ sketches.url }}" class="sketches">    
+      
+      <h1>{{ sketches.title }}</h1>
+
+      {% if sketches.image %}
+      <div class="post-image">
+        <img src="/images/{{ sketches.image }}" />
+      </div>
+      {% endif %}
+    
+      <div class="entry">
+        {{ sketches.content }}
+      </div>
+    </a>
+  {% endfor %}
+
+</div>

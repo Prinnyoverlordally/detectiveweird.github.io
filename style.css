@@ -148,14 +148,16 @@ a.next:hover {
     margin-bottom: 36px;
 }
 
-.fanart {
+.fanart,
+.sketches {
     display: block;
     width: 20%;
     margin: 24px 5%;
     float: left;
 }
 
-.fanart:nth-child(3n+1) {
+.fanart:nth-child(3n+1),
+.sketches:nth-child(3n+1) {
     clear: left;
 }
 
