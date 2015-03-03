@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+permalink: "/about/"
 ---
 
 <b>Detective Weird</b> is a paranormal comic that follows the misfit and crazy crew of “Detective Weird”, a blog run help service that assists in cases of the paranormal. 
