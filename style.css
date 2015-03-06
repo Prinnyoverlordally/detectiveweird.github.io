@@ -232,3 +232,8 @@ h1 a:hover {
     padding: 18px 0px;
     background-color: #5d0707;
 }
+
+.bookmark {
+ width: 10%;
+    height: auto;
+}
