@@ -1,6 +1,6 @@
 ---
 layout: sketches
-title: Jsut be Silly!
+title: Just be Silly!
 image: Sketches-4.jpg
 chapter: 
 page: 

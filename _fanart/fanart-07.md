@@ -10,3 +10,5 @@ category: fanart
 ---
 Yes, mock Edgar's triangle head. It is nothing more than a stoopid triangle!
 
+
+
