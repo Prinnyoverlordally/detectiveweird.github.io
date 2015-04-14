@@ -9,7 +9,7 @@ Some information about you!
 
 ### Edgar
 
-<img src="images/Edgar_Splash.png" alt="Edgar" align="center"/>
+<img src="/images/Edgar_Splash.png" alt="Edgar" align="center"/>
 
 Edgar is #1.
 
