@@ -9,7 +9,7 @@ Some information about you!
 
 ### Edgar
 
-![](/images/edgar-splash.png)
+<img src= "Edgar_Splash.png" alt="Edgar" align="center" />
 
 Edgar is #1.
 
