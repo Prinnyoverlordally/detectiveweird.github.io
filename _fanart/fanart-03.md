@@ -10,3 +10,4 @@ category: fanart
 ---
 Two ghost OC's are really getting their groove on. Too bad Edgar was not invited!
 
+©Scarlette-Skies (Tumblr)

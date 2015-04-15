@@ -9,3 +9,5 @@ next-page:
 category: fanart
 ---
 The begininng of the Paranormal Core, Edgar and a lovely bird who wants to peck at his head.
+
+©Scarlette-Skies (Tumblr)

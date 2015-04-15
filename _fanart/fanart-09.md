@@ -10,5 +10,5 @@ category: fanart
 ---
 Ah, yes, because everytime I draw Edgar I imagine Markiplier voicing him! Love this!
 
-
+©Scarlette-Skies (Tumblr)
 

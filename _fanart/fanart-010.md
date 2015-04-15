@@ -10,3 +10,4 @@ category: fanart
 ---
 The face poor Darrien knows all too well. Pouty Edgar always gets his way
 
+©Scarlette-Skies (Tumblr)

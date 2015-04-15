@@ -10,3 +10,4 @@ category: fanart
 ---
 You guys drawing Edgar gives me strength! I need the power!
 
+©PurpleCloak (Tumblr)

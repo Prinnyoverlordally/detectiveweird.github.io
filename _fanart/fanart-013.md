@@ -10,3 +10,4 @@ category: fanart
 ---
 That's it guys. That's the whole comic right there. 
 
+©Scarlette-Skies (Tumblr)

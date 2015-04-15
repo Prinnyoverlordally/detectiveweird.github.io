@@ -10,3 +10,4 @@ category: fanart
 ---
 Edgar, who is used to seeing red, has lost his glasses. The result is funny (and burning!)
 
+©Scarlette-Skies (Tumblr)

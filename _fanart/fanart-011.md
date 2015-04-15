@@ -10,3 +10,4 @@ category: fanart
 ---
 Edgar being a normal investigator. Somehow, still missing where the monster is. 
 
+©Scarlette-Skies (Tumblr)
