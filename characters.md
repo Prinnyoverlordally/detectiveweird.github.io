@@ -11,15 +11,41 @@ Meet the Weird Staff!
 
 <img src="/images/Edgar_Splash.png" alt="Edgar" align="center"/>
 
-Edric "Edgar" MaCarius
+<b>Edric "Edgar" MaCarius</b>
 
 The "fearless" leader of Detective Weird and it's creator. Edgar, as he likes to be called is a paranormal fanatic. He knows everything there is to know about the paranormal.
-Add more here.
+
+Name: Edric MaCarius
+Nicknames: Edgar, the name he prefers.
+Age: 27
+Height 6'0"
+Weight: 175
+Occupation: Part Time at Mollys, Paranormal Investigator
+
+Edgar was born in Sharon, Massachusetts to a Juliet and Issac MaCarius. He had a younger brother named Henry. Edgar loved his parents dearly, but they were tragically taken in a car accident. Henry and Edgar were soon adopted by a nice couple who cared for the two boys. Edgar loves his adoptive parents. However, when he was 10 his brother Henry went missing. To this day, nobody knows what happened to him. Edgar soon battled with depression and anxiety with the loss of his brother and last family member. Recently, he had been taking therapy classes and has discovered what he wants to be. 
+
+A paranormal investigator. 
+
 
 <img src="/images/Darrien_Splash.png" alt="Darrien" align="center"/>
 
-Darrien Michael Scott
+<b>Darrien Michael Scott</b>
+
+The brakes on the team, Darrien Scott. Darrien likes to make sure everyone takes a step back before they go too far.
+
+Name: Darrien Scott
+Nicknames: D-Man, Doctor D, Darrien, Dar-bear.
+Age: 30
+Height: 6'4"
+Weight: 210
+Occupation: Mortician
+
+Darrien Scott was born in Miami, Florida and the youngest of 12. As a kid, he was always too young to be with his older siblings and occupied his time by himself. When he 12, his mother's alzheimers was getting too bad for Darrien to stay at home. He was moved to New York with his uncle who ran a morgue. Darrien adored his uncle and spent much of time with him. His uncle was his best friend. Darrien left to become a doctor, getting a baseball scholarship to help pay for medical school. But before he could finish, his uncle passed away leaving Darrien the family morgue. Although not his original plan, he now runs the morgue in his memory.
+
+Darrien is Edgar's right hand man in Dective Weird and tends to be the logical skeptic of the group.
 
 <img src="/images/TBA.png" alt="To be Announced" align="center"/>
 
-To be Announced
+<b>To be Announced </b>
+
+Sorry, this person is currently Unknown! We will let you know when information becomes available!
