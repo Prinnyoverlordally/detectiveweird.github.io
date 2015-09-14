@@ -44,7 +44,7 @@ Darrien Scott was born in Miami, Florida and the youngest of 12. As a kid, he wa
 
 Darrien is Edgar's right hand man in Dective Weird and tends to be the logical skeptic of the group.
 
-<img src="/images/Penny_Splash.png" alt="Penny" align="center"/>
+<img src="/images/Edgar_Splash.png" alt="Edgar" align="center"/>
 
 <b>Penelope "Penny" Meyer</b>
 
