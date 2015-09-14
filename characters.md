@@ -44,6 +44,21 @@ Darrien Scott was born in Miami, Florida and the youngest of 12. As a kid, he wa
 
 Darrien is Edgar's right hand man in Dective Weird and tends to be the logical skeptic of the group.
 
+<img src="/images/Penny_Splash.png" alt="Penny" align="center"/>
+
+<b>Penelope "Penny" Meyer</b>
+
+The leading woman behind the scenes. Penny works on all the tech projects for the DW staff.
+
+<p>Name: Penelope Meyer</p>
+<p>Nicknames: Penny, Abe, P</p>
+<p>Age: 26</p>
+<p>Height: 5'6"</p>
+<p>Weight: 160</p>
+<p>Occupation: IT</p>
+
+Penny was born in New York, New York over in the broncs. Her mother passed away at birth and her father had too high expectations. She met Edgar as a kid from her daycare center tht Edgar's mother ran. The two have been best friends since. When she reached 18, her father arranged for her to marry a rich man but Penny had no interest. When she refused, her father cut all ties. She works as an IT/Tech Support for a company in town. 
+
 <img src="/images/TBA.png" alt="To be Announced" align="center"/>
 
 <b>To be Announced </b>
