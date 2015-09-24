@@ -4,7 +4,7 @@
 }
 
 body {
-    background-image: /images/pattern-test.png;
+    background-image: url("images/pattern-test.png");
     background-repeat: repeat-x;
     margin: 0;
     padding: 0;
