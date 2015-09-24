@@ -1,4 +1,7 @@
 body {
-    background-image: url("images/pattern-test.png");
-    background-repeat: repeat-x; repeat-y;
+    background-image: url("images/pattern-test.png") repeat-x scroll;
+    width : 100% 
+    position : relative;
+    z-index : 10; 
+    height: 57px; 
 }
