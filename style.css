@@ -5,7 +5,8 @@
 
 body {
     background-image: url("images/pattern-test.png");
-    background-repeat: repeat-y, x;
+    background-repeat: repeat-y;
+    background-repeat: repeat-x;
     margin: 0;
     padding: 0;
     font-family: Linowrite;
