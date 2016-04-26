@@ -9,7 +9,7 @@ Meet the Weird Staff!
 
 ### Edgar
 
-<img src="/images/Edgar_Splash.png" alt="Edgar" align="center"/>
+<img src="/images/edgar-splash.png" alt="Edgar" align="center"/>
 
 <b>Edric "Edgar" MaCarius</b>
 
@@ -27,7 +27,7 @@ Edgar was born in Sharon, Massachusetts to a Juliet and Issac MaCarius. He had a
 A paranormal investigator. 
 
 
-<img src="/images/Darrien_Splash.png" alt="Darrien" align="center"/>
+<img src="/images/darrien-splash.png" alt="Darrien" align="center"/>
 
 <b>Darrien Michael Scott</b>
 
@@ -44,7 +44,7 @@ Darrien Scott was born in Miami, Florida and the youngest of 12. As a kid, he wa
 
 Darrien is Edgar's right hand man in Dective Weird and tends to be the logical skeptic of the group.
 
-<img src="/images/Penny_Splash.png" alt="Penny" align="center"/>
+<img src="/images/penny-splash.png" alt="Penny" align="center"/>
 
 <b>Penelope "Penny" Meyer</b>
 
